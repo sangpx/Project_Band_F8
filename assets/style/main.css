@@ -180,23 +180,6 @@ html{
      font-size: 20px;
 }
 
-
-.search_button {
-  overflow: hidden;
-  position: relative;
-  transition: all 0.5s ease;
-  border-radius: 15px;
-  height: 46px;
-}
-
-.search_input {
-     border: none;
-     box-shadow: none;
-     background-color: transparent;
-     font-size: 11px;
-     padding: 15px 30px 7px 12px;    
-     color: #fff;
-}
      
 
 #header .menu-mobile-btn:hover{
